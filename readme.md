@@ -3,7 +3,7 @@
 
 ## Overview
 
-The Recipe Search and Recommendation System is a powerful tool that allows users to search for recipes based on their preferences and discover new recipes through personalized recommendations. This system leverages advanced search techniques and retrieval models to provide accurate and relevant results.
+The Recipe Search System is a  tool that allows users to search for recipes based on their preferences and discover new recipes through personalized recommendations. This system leverages advanced search techniques and retrieval models to provide accurate and relevant results.
 
 ## UI Front Page
 Upon accessing the Recipe Search Engine, users are greeted with an intuitive and visually appealing front page. The front page features a search bar where users can enter their desired recipe or ingredient.
