@@ -67,14 +67,6 @@ To use the Recipe Search System, follow these steps:
 
 5. Browse through the search results and click on a recipe to view detailed instructions, ingredients, and nutrition information.
 
-6. To access personalized recommendations, create an account and log in to the system. The recommendations will be based on your browsing history and preferences.
 
 
-## Installation
-To run the recipe search engine locally, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/your-username/recipe-search.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. Run the application: `python app.py`
-4. Open your web browser and visit `http://localhost:5000` to access the recipe search engine.
 
