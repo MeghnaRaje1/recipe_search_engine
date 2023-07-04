@@ -51,7 +51,7 @@ The Recipe Search and Recommendation System is built using a client-server archi
 
 4. **APIs**: The system may integrate with external APIs to fetch additional recipe data, such as ingredient details, nutritional information, and images. These APIs enhance the system's capabilities and provide comprehensive recipe results to the users.
 
-![Architecture Diagram](Image/systemArch.png)
+![Architecture Diagram](image/systemArch.png)
 
 ## Usage
 
